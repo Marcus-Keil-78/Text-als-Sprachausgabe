@@ -1,0 +1,27 @@
+In der Texteingabe wird der Text eingegeben, der in die Sprachausgabe konvertiert werden soll.
+
+Die erstellen Dateien werden auf dem Desktop in dem neu erstellten Ordner "Sprachausgabe" gespeichert.
+
+Mit dem Button "Erstellen" wird dann die Audiodatei im mp3-Format erstellt.
+
+Der Standardname der Audiodatei ist "Sound". Dieser kann jedoch unter "Dateiname" abgeändert werden.
+
+Mit dem Button "Eingaben zurücksetzen" wird der eingegebene Text sowie der Dateiname auf die Standardwerte zurückgesetzt.
+
+Mit dem Button "Abspielen" wird die erstellte Audiodatei abgespielt. Hierdurch ist eine Kontrolle möglich.
+
+Mit dem Button "Eingabefenster leeren" wird der gesamt Text im Eingabefenster gelöscht.
+
+Mit dem Button "Ordner öffnen" wird der Speicherort der Audiodateien geöffnet. Dies funktioniert nur, wenn mindestens eine Audiodatei erstellt wurde.
+
+
+Was es zu beachten gibt:
+
+1. Schreibfehler werden mitgesprochen. 
+2. Groß- und Kleinschreibung wird nicht beachtet
+3. Pausen werden durch ein Komma (",") hinzugefügt
+   - mehrere Kommas bedeuten aber nicht, dass die Pause länger wird!!!
+5. Die Satzzeichen "?" und "!" werden nicht beachtet
+6. Zahlen können als Zahl oder Wort geschrieben werden
+7. Aufzählungen werden nur geschrieben richtig gesprochen
+
